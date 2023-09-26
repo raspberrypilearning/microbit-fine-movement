@@ -1,11 +1,9 @@
-title: default-project-template
+title: micro:bit fine movements
 hero_image: images/banner.png
-description: default-project-template description
+description: Using more sensitive movements to trigger actions
 version: 4
 listed: false
 copyedit: false
-last_tested: "2022-05-19"
+last_tested: "2023-09-26"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
