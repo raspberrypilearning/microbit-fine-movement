@@ -4,7 +4,7 @@ You can get more accurate movement values using `rotation`{:class='microbitinput
 
 This could be used to compare against a maximum `roll` value to trigger an event.
 
-Here is an example.
+Here is an example. 
 
 <div style="position:relative;height:calc(200px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_gzvM5a8MgA4f" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
