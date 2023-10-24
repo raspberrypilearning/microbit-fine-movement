@@ -1,6 +1,6 @@
 You can get more accurate movement values using `rotation`{:class='microbitinput'}.
 
-- You can also find the `rotation`{:class='microbitinput'} block in the `Input`{:class='microbitinput'} menu in your Toolbox.
+- You can find the `rotation`{:class='microbitinput'} block in the `Input`{:class='microbitinput'} menu in your Toolbox.
 
 This can be used to compare against a maximum `roll` value to trigger an event.
 
