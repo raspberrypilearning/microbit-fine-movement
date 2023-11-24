@@ -1,10 +1,10 @@
-You can get more accurate movement values using `rotation`{:class='microbitinput'}.
+Je kunt nauwkeurigere bewegingswaarden verkrijgen met behulp van `rotatie`{:class='microbitinput'}.
 
-- You can find the `rotation`{:class='microbitinput'} block in the `Input`{:class='microbitinput'} menu in your Toolbox.
+- Je kunt het blok `rotatie`{:class='microbitinput'} vinden in het `Invoer`{:class='microbitinput'} menu in je Toolbox.
 
-This can be used to compare against a maximum `roll` value to trigger an event.
+Dit kan worden gebruikt om te vergelijken met een maximale 'rol' waarde om een gebeurtenis te activeren.
 
-Here is an example.
+Hier is een voorbeeld.
 
 ```microbit
 basic.forever(function () {
@@ -22,8 +22,8 @@ basic.forever(function () {
 })
 ```
 
-Here is the code running on the simulator.
+Hier is de code die op de simulator draait.
 
-Roll the micro:bit left or right to trigger the icon to change. <br>
+Rol de micro:bit naar links of rechts om het pictogram te laten veranderen. <br>
 
 <div style="position:relative;height:0;padding-bottom:127%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:60%;height:100%;" src="https://makecode.microbit.org/---run?id=_gzvM5a8MgA4f" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
