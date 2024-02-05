@@ -2,7 +2,7 @@ Je kunt nauwkeurigere bewegingswaarden verkrijgen met behulp van `rotatie`{:clas
 
 - Je kunt het blok `rotatie`{:class='microbitinput'} vinden in het `Invoer`{:class='microbitinput'} menu in je Toolbox.
 
-Dit kan worden gebruikt om te vergelijken met een maximale 'rol' waarde om een gebeurtenis te activeren.
+Dit kan worden gebruikt om te vergelijken met een maximale `rol` waarde om een gebeurtenis te activeren.
 
 Hier is een voorbeeld.
 
