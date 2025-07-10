@@ -1,0 +1,10 @@
+---
+title: Détection de mouvements fins
+hero_image: images/banner.png
+description: Utilise des mouvements plus sensibles pour déclencher des actions
+version: 4
+listed: false
+copyedit: false
+last_tested: "2023-09-26"
+steps:
+  - title: Introduction
